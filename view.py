@@ -5,7 +5,7 @@ import back
 
 app = Tk()
 
-app.title("By Okiushi")
+app.title("Dot Delete")
 
 app.resizable(width=False, height=False)
 
